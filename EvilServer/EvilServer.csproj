@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2BE6E63-9E3F-440D-B996-5536252EBBF1}</ProjectGuid>
+    <ProjectGuid>{E87AAF37-4876-4DB4-866F-413B7DDBC51A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EvilClient</RootNamespace>
-    <AssemblyName>EvilClient</AssemblyName>
+    <RootNamespace>EvilServer</RootNamespace>
+    <AssemblyName>EvilServer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
